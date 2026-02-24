@@ -30,21 +30,32 @@ O objetivo é combinar pressão deflacionária, sustentabilidade econômica e m�
 2. Blockchain e Padrões
 
 Rede planejada: BSC (Binance Smart Chain)
+
 Padrão: BEP-20
+
 Compatibilidade EVM: Sim
+
 Contrato Upgradeável: Não
+
 Função Mint: Desativada apos Deploy
+
 Supply Máximo: Fixo
 
 
 
 3. Especificações do Token
 
+
 Nome: Conspiracy Doge
+
 Símbolo: CSP-DOGE
+
 Decimais: 18
+
 Supply Total: 10.000.000.000 CSP-DOGE
+
 Mintagem adicional: Não permitida
+
 Função de Burn: Sim (modelo interno e externo)
 
 
