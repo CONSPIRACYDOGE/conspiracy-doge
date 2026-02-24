@@ -1,4 +1,4 @@
-# Conspiracy Doge (CDS)
+# Conspiracy Doge (CSP-DOGE)
 
 Conspiracy Doge is a deflationary BEP-20 token built around transparency, structured burn mechanics, and sustainable tokenomics.
 
