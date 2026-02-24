@@ -27,6 +27,8 @@ O objetivo é combinar pressão deflacionária, sustentabilidade econômica e m�
 
 
 
+
+
 2. Blockchain e Padrões
 
 Rede planejada: BSC (Binance Smart Chain)
@@ -40,6 +42,8 @@ Contrato Upgradeável: Não
 Função Mint: Desativada apos Deploy
 
 Supply Máximo: Fixo
+
+
 
 
 
@@ -60,6 +64,8 @@ Função de Burn: Sim (modelo interno e externo)
 
 
 
+
+
 4. Modelo de Distribuição
 
 Supply Total: 10.000.000.000 CDS
@@ -67,22 +73,37 @@ Supply Total: 10.000.000.000 CDS
 Distribuição proposta:
 
 40% – Liquidez Inicial e Estabilidade de Mercado
+
 20% – Incentivos Comunitários / Staking
+
 20% – Tesouraria e Operações Estratégicas
+
 15% – Reserva para Programa de Queima periodica de CSP-DOGE
+
 5% – Time (com vesting e bloqueio)
+
+
 
 Todos os endereços serão públicos e auditáveis.
 
 
 
+
 5. Estrutura de Taxas
+
+
+
 
 Taxa de Compra – 5%
 
 2% – Marketing e Expansão
+
 1% – Reforço de Liquidez
+
 2% – Alocação para Queima Estratégica (Queima de DOGE COIN)
+
+
+
 
 Taxa de Venda – 7%
 
